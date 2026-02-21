@@ -1,0 +1,23 @@
+== KURZBESCHREIBUNG (max 132 Zeichen) ==
+
+Steuere das Layout der YouTube-Startseite. Wähle 1 bis 12 Videospalten per Schieberegler — sofort, ohne Neuladen.
+
+
+== AUSFÜHRLICHE BESCHREIBUNG ==
+
+YouTube Grid Columns gibt dir die volle Kontrolle über das Spaltenlayout der YouTube-Startseite — weil jeder Bildschirm anders ist.
+
+Ob du auf einem breiten Monitor möglichst viele Videos auf einen Blick sehen willst, oder lieber weniger, dafür größere Thumbnails bevorzugst: Ein Zug am Schieberegler reicht.
+
+✦ Einfacher Schieberegler (1–12 Spalten)
+✦ Änderungen wirken sofort — kein Neuladen der Seite nötig
+✦ Einstellungen werden geräteübergreifend über dein Google-Konto synchronisiert
+✦ Schlank — keine Werbung, kein Tracking, keine externen Anfragen
+✦ Funktioniert auf der Startseite, im Abonnement-Feed und auf der Entdecken-Seite
+
+So wird's genutzt:
+1. Klicke auf das Extension-Symbol in der Browserleiste
+2. Ziehe den Schieberegler auf die gewünschte Spaltenanzahl
+3. YouTube aktualisiert sich sofort
+
+Das war's. Keine Anmeldung, keine Konfiguration, kein Aufwand.
