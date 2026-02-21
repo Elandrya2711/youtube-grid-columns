@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YouTube Grid Columns",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Control the number of video columns on YouTube's home page with a simple slider (1–12 columns).",
   "permissions": ["storage"],
   "host_permissions": ["https://www.youtube.com/*"],

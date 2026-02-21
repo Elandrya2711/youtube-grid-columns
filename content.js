@@ -4,6 +4,7 @@ const STYLE_ID = "yt-grid-override";
 const DEFAULT_COLUMNS = 6;
 
 function buildCSS(n) {
+  const gap = Math.max(4, Math.min(16, Math.round(64 / n)));
   return `
 ytd-rich-grid-renderer {
   --ytd-rich-grid-items-per-row: ${n} !important;
@@ -11,11 +12,13 @@ ytd-rich-grid-renderer {
 ytd-rich-grid-renderer #contents.ytd-rich-grid-renderer {
   display: grid !important;
   grid-template-columns: repeat(${n}, minmax(0, 1fr)) !important;
+  gap: ${gap}px !important;
 }
 ytd-rich-item-renderer {
   width: 100% !important;
   max-width: unset !important;
   min-width: 0 !important;
+  margin: 0 !important;
 }
 ytd-rich-grid-row #contents.ytd-rich-grid-row {
   display: contents !important;
